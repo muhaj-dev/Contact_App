@@ -1,0 +1,14 @@
+{
+  "contacts": [
+    {
+      "id": "6b211cdc-fbcd-4c47-babc-98d7537be06f",
+      "name": "teema",
+      "email": "teema@gmail.com"
+    },
+    {
+      "id": "4aea7a55-42c1-489b-ad3a-0b1ab9db2c6c",
+      "name": "fuad",
+      "email": "fuad@gmail.com"
+    }
+  ]
+}
